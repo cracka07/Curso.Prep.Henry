@@ -1,0 +1,6 @@
+Las variables son una forma de guardar información, para después  cuando necesites esa información, la puedas utilizar porque sabes que la tienes guardada.
+Los strings son simplemente cadena de caracteres que van entre
+comillas.
+Las funciones son un conjunto de lineas(código),  que retornan o no un valor, es decir que devuelven un valor o no. Agrupa código que sabemos que se va usar muchas veces. Tambíen a las funciones se les puede pasar argumentos. esos argumentos van a modificar el comportamiento de la función.
+La declaración if se usa para evaluar una expresión condicional, si se cumple, ejecuta un bloque de código(conjunto de lineas) o si no cumple sigue con el transcurso del programa.
+Los valores booleanos es un valor de verdad, representa un valor que puede ser verdadero o falso. True si cumple la condición y False si no cumple la condición.
