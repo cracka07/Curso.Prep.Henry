@@ -1,0 +1,6 @@
+El bucle for es un bucle se utiliza para evitar muchas repeticiones, se usa para evitar muchas lineas de código.
+Se compone de una variable que inicializa el bucle, la condición , y el incremento en uno. Es una estructura de control, para controlar el número de iteraciones que va a tener.
+||, &&, ! son operadores lógicos.
+|| indica si algo se cumple o la otra parte se cumple. ES EL O LÓGICO.
+&& , indica el operador lógico and(y), si esto se cumple y esto también, sigue con la ejecución.
+!, es la negación, !== si algo es distinto de, o simplemente negar una valor booleano, !true sería false.
