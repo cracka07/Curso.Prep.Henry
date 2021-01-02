@@ -1,0 +1,1 @@
+Array es una coleccion de elementos ordenadas que se puede acceder (recorrerlo) a través de un indice. Es una lista( que es una serie de elementos ordenados uno al lado del otro).
