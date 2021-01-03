@@ -1,0 +1,5 @@
+Objeto es una coleccion de propiedades y una propiedad es una asociación entre un nombre o clave y un valor o value.
+Las funciones guardadas en los objetos son métodos.
+El bucle for-in se utiliza para recorrer objetos, puesto que los objetos no usan indices númerico no se puede utilizar el for estandar(se lo usa para los arreglos).
+Utiliza una clave para recorrer el objeto.
+Notación de puntos, es cuando tratamos de acceder a una propiedad de un objeto, usamos objeto.propiedad asi mismo para asignar un valor, la notación de corchetes actúa de forma similiar en vez del el punto el objeton[propiedad].
