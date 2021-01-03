@@ -1,0 +1,3 @@
+Todo en javaScript es un objeto.
+Prototype es un objeto. Cuando pedimos a un objeto una propiedad que no tiene o un método que no tiene, ocultamente lo busca en su prototipo(allí se encuentran todos los métodos y propiedades).
+Constructor, es un método o función para crear e inicializar objetos.
