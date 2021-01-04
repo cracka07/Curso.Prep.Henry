@@ -1,0 +1,1 @@
+Las funciones callbacks es la capacidad de pasar una función como argumento a otra función. Puede llamarse en cualquier momento y puede retornarse luego.
